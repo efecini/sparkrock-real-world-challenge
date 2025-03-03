@@ -1,2 +1,2 @@
 # sparkrock-real-world-challenge
-Challenge for Sr. QA Engineer
+Challenge for Sparkrock's Sr. QA Engineer Position
